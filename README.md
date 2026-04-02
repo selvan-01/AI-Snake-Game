@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail22.png" width="800">
+</p>
+
 # 🐍 AI Snake Game (Manual + AI Mode)
 
 A complete Snake Game project built using Python and Pygame, featuring both manual gameplay and AI-powered automation. This project demonstrates game development, logic building, and AI-based problem solving.
@@ -108,6 +112,12 @@ Hamiltonian Solver:
 - Leaderboard system
 
 ---
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/AI-Snake-Game.git)
 
 ## 👨‍💻 Author
 
